@@ -1,0 +1,20 @@
+.borderLine {
+    border-bottom: 1px solid white;
+   
+    
+    /* border : 1px solid red; */
+}
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,300,400,700');
+.sidebarlink {
+    transition: all .4s;
+    font-family: 'Poppins', sans-serif !important;
+    letter-spacing: 1px !important;
+    cursor: pointer !important;
+   
+}
+
+.sidebarlink:hover {
+    background-color: #444;
+    border-radius: 5px;
+   
+  }

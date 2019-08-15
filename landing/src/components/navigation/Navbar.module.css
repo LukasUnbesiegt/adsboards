@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,300,400,700');
+.navigationItem {
+    font-family : initial;
+    font-size: 1rem !important;
+  font-weight: 500 !important;
+  letter-spacing: 1px !important;
+  font-family: 'Poppins', sans-serif !important;
+  transition: all .3s;
+  color : white !important;
+}
+
+.navigationItem:hover {
+    color : grey !important;
+}
+

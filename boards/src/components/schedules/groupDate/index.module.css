@@ -1,0 +1,13 @@
+.dateSpan {
+
+    background-image: radial-gradient(circle 248px at center, #D9D4CF 0%, #D9D4CF  47%, #D9D4CF 100%);
+    color : #fff;
+    padding : 13px;
+    margin: 13px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    width : 220px;
+    -webkit-clip-path: polygon(7% 0, 100% 0, 93% 100%, 2% 100%);
+    clip-path: polygon(7% 0, 100% 0, 93% 100%, 2% 100%);
+
+}

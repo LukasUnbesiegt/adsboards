@@ -1,0 +1,21 @@
+.sidebar {
+
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: radial-gradient(circle 248px at center, #9B8281 0%, #9B8281  47%, #9B8281 100%);
+    overflow-y: scroll;
+
+
+}
+
+.navbarColor {
+    background-image: radial-gradient(circle 248px at center, #9B8281 0%, #9B8281  47%, #9B8281 100%);
+    height : 45px;
+
+}
+
+.iconBullet {
+    background-image: radial-gradient(circle 248px at center, #9B8281 0%, #9B8281  47%, #9B8281 100%);
+}

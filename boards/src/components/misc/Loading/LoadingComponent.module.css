@@ -1,0 +1,8 @@
+.wrapper {
+    height: 100vh;
+    background-image: radial-gradient(circle 248px at center, #9B8281 0%, #9B8281  47%, #9B8281 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}

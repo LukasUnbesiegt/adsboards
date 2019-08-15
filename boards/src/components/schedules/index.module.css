@@ -1,0 +1,14 @@
+
+
+.totalSpan {
+
+    background-image: radial-gradient(circle 248px at center, #519D9E 0%,  #519D9E 47%, #519D9E 100%);
+    color : #fff;
+    padding : 20px;
+    margin: 20px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    -webkit-clip-path: polygon(7% 0, 100% 0, 93% 100%, 2% 100%);
+    clip-path: polygon(7% 0, 100% 0, 93% 100%, 2% 100%);
+
+}

@@ -1,0 +1,8 @@
+.footerWrapper {
+    background-image: radial-gradient(circle 248px at center, #9DC3C1 0%, #9DC3C1  47%, #9DC3C1 100%);
+}
+
+.linkItem {
+    text-decoration: none;
+    color : #fff;
+}
