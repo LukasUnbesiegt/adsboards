@@ -18,7 +18,7 @@ module.exports = {
             },
             env_production: {
                 NODE_ENV: 'production',
-                MONGO_URI: `mongodb+srv://thuta:yngWIE500@cluster0-ned5f.mongodb.net/test?retryWrites=true`,
+                MONGO_URI: ``,
                 FACEBOOK_APP_ID: ``,
                 FACEBOOK_APP_SECRET: ``,
                 FRONTEND_URL: ``,
