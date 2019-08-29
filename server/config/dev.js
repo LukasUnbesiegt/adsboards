@@ -4,23 +4,23 @@ module.exports = {
 
     googleClientID: '',
     googleClientScret: ``,
-    MONGO_URI: `mongodb+srv://thuta:yngWIE500@cluster0-ned5f.mongodb.net/test?retryWrites=true&w=majority`,
+    MONGO_URI: ``,
     stripePublishableKey: '',
     stripeSecretKey: ``,
     sendGridKey: ``,
     redirectDomain: ``,
     FACEBOOK_APP_ID: ``,
     FACEBOOK_APP_SECRET: ``,
-    CHATKIT_INSTANCE_LOCATOR: `v1:us1:bb5df3cd-5dc0-47a0-af60-dc0e87479b25`,
-    CHATKIT_SECRET_KEY: `e0e9218b-d501-4121-bf12-8a86bbab860d:l31YDEBYDkVq/A9ToIlKEg41EFcp/yHiEy+SCeWDWQ8=`,
+    CHATKIT_INSTANCE_LOCATOR: ``,
+    CHATKIT_SECRET_KEY: ``,
     secretOrKey: ``,
     AWS_SECRET_KEY: ``,
     AWS_ACCESS_KEY_ID: ``,
     FRONTEND_URL: ``,
     ACCOUNTKIT_SECRET: ``,
     CD_CLOUD_NAME: `spotads`,
-    CD_CLOUD_API_KEY: `453917131434384`,
-    CD_CLOUD_API_SECRET: `AAim_DwDwg8y0BTnUqeV0Hy0kR0`,
+    CD_CLOUD_API_KEY: ``,
+    CD_CLOUD_API_SECRET: ``,
     FB_APP_ID: ``
 
 }
